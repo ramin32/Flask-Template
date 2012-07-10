@@ -12,7 +12,7 @@ AVAILABLE COMMANDS:
 
 RESOURCES:
 For a full tutorial on Flask please visit http://flask.pocoo.org/docs/tutorial/.
-A sample User SQLAlchemy class is defined under project_name/models.py. Please Visit the official page for more info: http://packages.python.org/Flask-SQLAlchemy/.
+A sample User SQLAlchemy class is defined under project_name/models.py. Please visit the official page for more info: http://packages.python.org/Flask-SQLAlchemy/.
 
 AUTHOR:
 Ramin Rakhamimov
