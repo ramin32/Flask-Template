@@ -1,9 +1,11 @@
 A barebones template for new Flask projects with SQLAlchemy and Scripts already configured.
 
 TO GET STARTED:
-run sudo pip install -r requirements.txt
-Rename every occurance of "project_name" with your new chosen project name.
-You should now have a fully functional Flask app with an ORM templates and a shell environment.
+1) run sudo pip install -r requirements.txt
+2) run python manage.py runserver
+
+MODIFY:
+To adapt this template to your new project, rename every occurance of "project_name" with your new chosen project name.
 
 AVAILABLE COMMANDS:
 'python manage.py runserver' runs the development server.
