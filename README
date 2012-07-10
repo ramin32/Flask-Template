@@ -1,0 +1,20 @@
+A barebones template for new Flask projects with SQLAlchemy and Scripts already configured.
+
+TO GET STARTED:
+run sudo pip install -r requirements.txt
+Rename every occurance of "project_name" with your new chosen project name.
+You should now have a fully functional Flask app with an ORM templates and a shell environment.
+
+AVAILABLE COMMANDS:
+'python manage.py runserver' runs the development server.
+'python manage.py shell' runs the shell.
+'python manage.py syncdb' creates tables based on SQLAlchemy schema.
+
+RESOURCES:
+For a full tutorial on Flask please visit http://flask.pocoo.org/docs/tutorial/.
+A sample User SQLAlchemy class is defined under project_name/models.py. Please Visit the official page for more info: http://packages.python.org/Flask-SQLAlchemy/.
+
+AUTHOR:
+Ramin Rakhamimov
+ramin32@gmail.com
+http://raminrakhamimov.com
