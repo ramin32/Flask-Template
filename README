@@ -10,7 +10,7 @@ To adapt this template to your new project, rename every occurance of "project_n
 AVAILABLE COMMANDS:
 'python manage.py runserver' runs the development server.
 'python manage.py shell' runs the shell.
-'python manage.py syncdb' creates tables based on SQLAlchemy schema.
+'python manage.py syncdb' creates tables based on the SQLAlchemy schema.
 
 RESOURCES:
 For a full tutorial on Flask please visit http://flask.pocoo.org/docs/tutorial/.
